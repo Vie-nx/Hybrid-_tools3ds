@@ -8,10 +8,10 @@ Este proyecto explora la manipulación de claves AES para su uso en emuladores c
 - Utilicé herramientas como HxD y scripts personalizados en Python para manipular las claves.
 
 ## Resultados
-Logré generar una clave híbrida que funciona en Citra para descifrar juegos de Nintendo 3DS. Sin embargo, las claves híbridas no son válidas en todos los contextos.
+Logré generar una clave híbrida que funciona en en lime3ds y mandarina  para descifrar juegos de Nintendo 3DS. Sin embargo, las claves híbridas no son válidas en todos los contextos.
 
 ## Herramientas utilizadas
-- [Citra](https://citra-emu.org/)
+- [Citra](https://citra-emu.org/)(no funciona en pc)
 - [HxD](https://mh-nexus.de/en/hxd/)
 - Python 3.x
 
